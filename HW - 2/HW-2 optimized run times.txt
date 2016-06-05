@@ -1,0 +1,10 @@
+1gb run times:
+34s, 38s, 37s
+
+
+5gb run times:
+47s, 46s, 47s
+
+
+20gb run times:
+99s, 98s, 98s
